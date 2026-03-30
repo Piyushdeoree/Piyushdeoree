@@ -11,10 +11,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Piyushdeoree&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Piyushdeoree&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushdeoree&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="center">
  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
 </div>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Piyushdeoree&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
